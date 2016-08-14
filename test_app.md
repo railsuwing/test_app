@@ -1,6 +1,6 @@
 #Hello World,I Love RoR!!!
 
 ```ruby
-puts ```"Hello World"
+puts "Hello World"
 ```
 This is my first markdown  
